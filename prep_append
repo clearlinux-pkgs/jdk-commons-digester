@@ -1,0 +1,2 @@
+python3 /usr/share/java-utils/mvn_alias.py "commons-digester:commons-digester" "org.apache.commons:commons-digester"
+python3 /usr/share/java-utils/mvn_file.py :commons-digester commons-digester apache-commons-digester

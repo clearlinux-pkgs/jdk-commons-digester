@@ -1,0 +1,29 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+apache-ant
+apache-maven2
+jdk-apache-parent
+jdk-bsh
+jdk-build-helper-maven-plugin
+jdk-buildnumber-maven-plugin
+jdk-commons-beanutils
+jdk-commons-collections
+jdk-commons-parent
+jdk-enforcer
+jdk-hamcrest
+jdk-junit4
+jdk-maven-antrun-plugin
+jdk-maven-bundle-plugin
+jdk-maven-common-artifact-filters
+jdk-maven-compiler-plugin
+jdk-maven-dependency-tree
+jdk-maven-jar-plugin
+jdk-maven-javadoc-plugin
+jdk-maven-plugin-testing
+jdk-maven-remote-resources-plugin
+jdk-maven-resources-plugin
+jdk-maven-scm
+jdk-plexus-archiver
+jdk-plexus-i18n
+jdk-surefire
+jdk-xbean
